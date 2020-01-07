@@ -16,11 +16,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="67" />
+            <state relative-caret-position="312">
+              <caret line="94" column="53" selection-start-line="94" selection-start-column="53" selection-end-line="94" selection-end-column="53" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
@@ -28,22 +27,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../31-05-2019 Scroll Animation/style/main.css">
+        <entry file="file://$PROJECT_DIR$/garment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="168" column="4" selection-start-line="168" selection-start-column="4" selection-end-line="169" selection-end-column="30" />
+            <state relative-caret-position="312">
+              <caret line="112" column="89" lean-forward="true" selection-start-line="112" selection-start-column="89" selection-end-line="112" selection-end-column="89" />
+              <folding>
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                <marker date="1577966642995" expanded="true" signature="17497:17909" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/garment.html">
+        <entry file="file://$PROJECT_DIR$/style/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="119" column="26" lean-forward="true" selection-start-line="119" selection-start-column="26" selection-end-line="119" selection-end-column="26" />
-              <folding>
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="116">
+              <caret line="404" column="5" lean-forward="true" selection-start-line="404" selection-start-column="5" selection-end-line="404" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -51,21 +51,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="150" column="19" lean-forward="true" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
+            <state relative-caret-position="116">
+              <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -85,12 +76,27 @@
       <find>navbar-brand</find>
       <find>navbar-light</find>
       <find>col</find>
-      <find>section</find>
       <find>porto</find>
       <find>box-s</find>
       <find>landing-p</find>
       <find>s-tw</find>
+      <find>landing</find>
+      <find>md</find>
+      <find>img-container</find>
+      <find>footer-tex</find>
+      <find>act-img</find>
+      <find>title-</find>
+      <find>title-section</find>
+      <find>paragraph</find>
+      <find>section</find>
+      <find>visimisi</find>
+      <find>fa-i</find>
+      <find>garment-title</find>
+      <find>img-container-2</find>
     </findStrings>
+    <replaceStrings>
+      <replace>sm</replace>
+    </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -98,10 +104,10 @@
         <option value="$PROJECT_DIR$/style/index.html" />
         <option value="$PROJECT_DIR$/bootstrap/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/script/scroll-animation.js" />
-        <option value="$PROJECT_DIR$/style/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/garment.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/style/main.css" />
       </list>
     </option>
   </component>
@@ -131,12 +137,6 @@
             <path>
               <item name="15-12-2019 Kumpay Garment" type="b2602c69:ProjectViewProjectNode" />
               <item name="15-12-2019 Kumpay Garment" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="15-12-2019 Kumpay Garment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="15-12-2019 Kumpay Garment" type="462c0819:PsiDirectoryNode" />
               <item name="style" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -158,6 +158,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -191,12 +192,14 @@
       <updated>1576415866064</updated>
       <workItem from="1576415874864" duration="17882000" />
       <workItem from="1577156272268" duration="27539000" />
-      <workItem from="1577423161520" duration="3644000" />
+      <workItem from="1577423161520" duration="4239000" />
+      <workItem from="1577684485774" duration="12920000" />
+      <workItem from="1578389249925" duration="2726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49065000" />
+    <option name="totallyTimeSpent" value="65306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -247,27 +250,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/scroll-animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../31-05-2019 Scroll Animation/style/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="168" column="4" selection-start-line="168" selection-start-column="4" selection-end-line="169" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/script/scroll-animation.js" />
     <entry file="file://$PROJECT_DIR$/../31-05-2019 Scroll Animation/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
@@ -275,31 +258,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/main.css">
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="293" column="1" selection-start-line="293" selection-start-column="1" selection-end-line="293" selection-end-column="1" />
+        <state>
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../31-05-2019 Scroll Animation/style/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="122" column="23" lean-forward="true" selection-start-line="122" selection-start-column="23" selection-end-line="122" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="67" />
+        <state relative-caret-position="312">
+          <caret line="94" column="53" selection-start-line="94" selection-start-column="53" selection-end-line="94" selection-end-column="53" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="150" column="19" lean-forward="true" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
-          <folding>
-            <element signature="n#style#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -307,11 +285,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/garment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="119" column="26" lean-forward="true" selection-start-line="119" selection-start-column="26" selection-end-line="119" selection-end-column="26" />
+        <state relative-caret-position="312">
+          <caret line="112" column="89" lean-forward="true" selection-start-line="112" selection-start-column="89" selection-end-line="112" selection-end-column="89" />
           <folding>
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <marker date="1577966642995" expanded="true" signature="17497:17909" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="404" column="5" lean-forward="true" selection-start-line="404" selection-start-column="5" selection-end-line="404" selection-end-column="5" />
         </state>
       </provider>
     </entry>
