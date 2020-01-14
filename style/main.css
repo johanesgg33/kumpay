@@ -1,12 +1,12 @@
 /*Color Scheme*/
-/*#c6804f*/
+/*#d68957*/
 /*#ffffff*/
 /*#000000*/
 
 /*Font Import*/
 @font-face {
     font-family: "Open Sans";
-    src: url("../fonts/Hind-Regular.ttf")
+    src: url("../fonts/OpenSans-Regular.ttf")
 }
 
 body{
@@ -14,14 +14,19 @@ body{
 }
 
 @font-face {
+    font-family: "Poppins";
+    src: url("../fonts/Poppins-Regular.ttf")
+}
+
+@font-face {
     font-family: "Hind";
-    src: url("../fonts/OpenSans-Regular.ttf")
+    src: url("../fonts/Hind-Regular.ttf")
 }
 
 .title-nav{
     font-family:Hind, serif;
     font-size:20px;
-    margin-top:-4px;
+    margin-top:-2px;
 }
 
 .nav-logo{
@@ -76,7 +81,7 @@ body{
     content: '';
     height: 15px;
     /* adjust this to move up and down. you may have to adjust the line height of the paragraph if you move it down a lot. */
-    bottom: 5px;
+    bottom: 10px;
 
     margin: 0 0;
     left: 0;
@@ -87,16 +92,16 @@ body{
 .paragraph-text{
     padding-top:10px;
     padding-right:80px;
-    font-family: "Open Sans",serif;
-    font-size:17px;
+    font-family: Poppins, serif;
+    font-size:16px;
     line-height:23px;
     text-align:justify;
     color: #474747;
 }
 
 .visimisi-text{
-    font-family: "Open Sans",serif;
-    font-size:20px;
+    font-family: Poppins, serif;
+    font-size:18px;
     line-height:25px;
     text-align:center;
     color: #23000b;
@@ -111,19 +116,19 @@ body{
 .footer-text-1{
     font-family: Hind, serif;
     font-size:24px;
-    color : #c6804f;
+    color : #d68957;
     margin-top:40px;
 }
 
 .contact-subtitle{
-    font-family: "Open Sans",serif;
+    font-family: Poppins, serif;
     font-size:20px;
-    color : #c6804f;
+    color : #d68957;
     margin-bottom:0;
 }
 
 .contact-text{
-    font-family: "Open Sans",serif;
+    font-family: Poppins, serif;
     font-size:16px;
     color : #5e5e5e;
     margin-bottom:0;
@@ -131,7 +136,7 @@ body{
 
 
 .footer-text-2, .footer-text-2-h{
-    font-family: "Open Sans",serif;
+    font-family: Poppins, serif;
     font-size:16px;
     color: white;
     text-decoration: none;
@@ -171,13 +176,13 @@ body{
 
 .porto-img-container{
     width:250px;
-    height:320px;
+    height:280px;
     object-fit:cover;
     box-shadow: 1px 1px 3px #a4a4a4;
 }
 
 .img-container-1{
-    width: 100%;
+    width: 300px;
 }
 .img-container-2{
     width: 300px;
@@ -192,13 +197,13 @@ body{
 
 .client-img-container{
     width:100%;
-    height:100px;
+    height:60px;
 }
 
 .client-img{
     width:100%;
-    height:100px;
-    object-fit: cover;
+    height:60px;
+    object-fit: contain;
 }
 
 .garment-title{
@@ -214,11 +219,19 @@ body{
     color : #ffffff;
     font-weight:900;
     margin-bottom:0;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000;
 }
 .garment-subtitle-animate{
     font-family: Hind, serif;
     font-size:24px;
     color : #fefefe;
+    text-shadow: -2px 2px 0 #000,
+    2px 2px 0 #000,
+    2px -2px 0 #000,
+    -2px -2px 0 #000;
 }
 
 
@@ -358,7 +371,7 @@ body{
         content: '';
         height: 10px;
         /* adjust this to move up and down. you may have to adjust the line height of the paragraph if you move it down a lot. */
-        bottom: 5px;
+        bottom: 10px;
 
         margin: 0 0;
         left: 0;
@@ -369,7 +382,7 @@ body{
         padding-top:5px;
         padding-right:10px;
         padding-left:10px;
-        font-family: "Open Sans",serif;
+        font-family: Poppins, serif;
         font-size:16px;
         line-height:23px;
         text-align:justify;
